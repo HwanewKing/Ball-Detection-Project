@@ -1,7 +1,6 @@
 # Ball-Detection-Project
 
-## YOLO로 사람을 탐지하고
-## 배경을 삭제하여 HCT 정확도를 높인 공 탐지 프로젝트
+## YOLO로 사람을 탐지하고<br/>배경을 삭제하여 HCT 정확도를 높인 공 탐지 프로젝트
 
 HCT.ipynb : 공 탐지 알고리즘 <br/>
 greenx.ipynb : 바닥 삭제 알고리즘 <br/>
